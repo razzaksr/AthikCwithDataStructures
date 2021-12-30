@@ -1,0 +1,34 @@
+Functions:
+block contains specific code, whenever its getting called it will execute
+
+reduce time/space complexity
+
+parameter: mandate type of data should be passed while calling the function
+retunType: type of data will be returned once function stop the execution
+
+all data types,arrays,pointers,user defined types,void
+
+type:
+In built functions: usually lies in header files
+	eg:strcat, printf, scanf, getch, getche,.........
+User defined :
+	declaration: 	returnType funName(param);
+	definition:
+			syntax:
+			returnType funName(parameters)
+			{
+				// logic
+			}
+	calling:
+			funName(arguments)
+
+	
+	categories:
+		1. parameter and return
+		2. parameter and no return
+		3. no parameter and no return
+		4. no parameter and return
+
+User defined header file
+Local variable
+global variable
