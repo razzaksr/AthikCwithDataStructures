@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 // Linear Search: Unsorted array >> O(n)
+// Binary Search: Sorted array>> O(logn)
 
 int linear(int[],int,int);
 int binary(char[],int,int,char);

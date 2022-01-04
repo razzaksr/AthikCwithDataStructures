@@ -3,6 +3,8 @@ void selection(char[],int);
 void selecting(int[],int);
 void traverse(int[],int);
 
+
+
 int main()
 {
     char org[]="zealous";
